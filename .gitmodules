@@ -1,4 +1,3 @@
-﻿
 [submodule "server"]
 	path = server
 	url = https://github.com/susulqx/KuGouMusicApi.git
